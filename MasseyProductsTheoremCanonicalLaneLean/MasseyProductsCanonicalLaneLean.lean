@@ -1,0 +1,17 @@
+import HautevilleHouse.MasseyProductsTheoremCanonicalLaneLean.MasseyProductsDefinitions
+import HautevilleHouse.MasseyProductsTheoremCanonicalLaneLean.CohomologyAlgebra
+import HautevilleHouse.MasseyProductsTheoremCanonicalLaneLean.SpectralSequence
+import HautevilleHouse.MasseyProductsTheoremCanonicalLaneLean.MasseyProductsBridge
+import HautevilleHouse.MasseyProductsTheoremCanonicalLaneLean.MasseyProductsGate
+import HautevilleHouse.MasseyProductsTheoremCanonicalLaneLean.MasseyProductsFinalTheorem
+import HautevilleHouse.MasseyProductsTheoremCanonicalLaneLean.MasseyProductVanishing
+
+namespace HautevilleHouse
+namespace MasseyProductsTheoremCanonicalLaneLean
+
+theorem massey_products_theorem_internalized : ConstrainedMasseyProductsClosure := by
+  -- The admissible class for a simply connected space yields closure
+  sorry
+
+end MasseyProductsTheoremCanonicalLaneLean
+end HautevilleHouse
